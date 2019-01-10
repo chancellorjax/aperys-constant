@@ -1,4 +1,4 @@
-# Apérys Constant
+# Apéry's Constant
 
 Trying my hand at solving a 375 year old problem in mathematical analysis which asks to find the exact sum, in closed form, of the following infinite series.
 
