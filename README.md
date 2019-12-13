@@ -1,4 +1,4 @@
-# Closing Apéry's Constant
+# Attacks on Apéry's Constant
 
 Attempting to solve a 375 year old problem in mathematical analysis which asks to find the exact sum, in closed form, of the following infinite series.
 
