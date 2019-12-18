@@ -7,3 +7,7 @@ Attempting to solve a 375 year old problem in mathematical analysis which asks t
 [View notebook on Jupyter nbviewer.](https://nbviewer.jupyter.org/github/jagrajs/Aperys_Constant/blob/master/Attacks_on_Apéry%27s_Constant.ipynb)
 
 [View notebook on Google Colab.](https://colab.research.google.com/drive/1atOCTKs1EKAPJYtCKOfEqdPMI1Smglyk)
+
+### Resources
+
+[Was playing around with the Riemann Zeta function and s=3. Not sure what I found. Any help would be great!](https://www.reddit.com/r/math/comments/2qbdk2/was_playing_around_with_the_riemann_zeta_function/)
