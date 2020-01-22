@@ -12,4 +12,4 @@ Attempting to solve a 375 year old problem in mathematical analysis which asks t
 
 [Apéry's constant](https://en.wikipedia.org/wiki/Apéry%27s_constant)
 
-[Was playing around with the Riemann Zeta function and s=3. Not sure what I found. Any help would be great!](https://www.reddit.com/r/math/comments/2qbdk2/was_playing_around_with_the_riemann_zeta_function/)
+[Was playing around with the Riemann Zeta function and s=3. Not sure what I found. Any help would be great!](https://www.removeddit.com/r/math/comments/2qbdk2/was_playing_around_with_the_riemann_zeta_function/)
