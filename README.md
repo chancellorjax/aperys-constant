@@ -23,6 +23,7 @@ Now, suppose you asked me to rewrite the number 1.2020569031... in terms of othe
 
 ![apery](https://raw.githubusercontent.com/jagrajs/aperys-constant/master/apery.png)
 
+The problem asks to rewrite the second number (which is obtained from the series at the top) in terms of other well-known numbers.
 
 ### Resources
 
