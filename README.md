@@ -19,11 +19,11 @@ I would say, "That's easy!"
 
 ![basel](https://raw.githubusercontent.com/jagrajs/aperys-constant/master/basel.png)
 
-Now, suppose you asked me to rewrite the number 1.2020569031... in terms of other well-known numbers. I (and everyone in the world) would say, "We have absolutely no idea! Even after 400 years!"
+Now, suppose you asked me to rewrite the number 1.2020569031... in terms of other well-known numbers. I (and everyone in the world) would say, "We have absolutely no idea!"
 
 ![apery](https://raw.githubusercontent.com/jagrajs/aperys-constant/master/apery.png)
 
-The problem asks to rewrite the second number (which is obtained from the series at the top) in terms of other well-known numbers.
+The problem asks to rewrite the second number (which is obtained from the series at the top) in terms of other well-known numbers. This is a famously difficult  problem, not only because it has remained unsolved for almost 400 years, but because arguably the greatest mathematician to have ever lived, Leonhard Euler, tried his hand at solving it but failed.
 
 ### Resources
 
