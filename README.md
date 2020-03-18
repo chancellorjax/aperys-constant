@@ -2,11 +2,9 @@
 
 Attempting to solve a 375 year old problem in mathematical analysis which asks to find the exact sum, in closed form, of the following infinite series.
 
----
 
 ![example](https://raw.githubusercontent.com/jagrajs/aperys-constant/master/series.png)
 
----
 
 [View notebook on Jupyter nbviewer.](https://nbviewer.jupyter.org/github/jagrajs/Aperys_Constant/blob/master/Attacks_on_Apéry%27s_Constant.ipynb)
 
