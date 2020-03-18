@@ -15,11 +15,11 @@ Attempting to solve a 375 year old problem in mathematical analysis which asks t
 
 Suppose you asked me to rewrite the number 1.6449340668... in terms of other well-known numbers.
 
-I would say, "That's easy! 
+I would say, "That's easy!"
 
 ![basel](https://raw.githubusercontent.com/jagrajs/aperys-constant/master/basel.png)
 
-Now, suppose you asked me to rewrite the number 1.2020569031... in terms of other well-known numbers. I (and everyone in the world) would say, "We have absolutely no idea! Even after 400 years! 
+Now, suppose you asked me to rewrite the number 1.2020569031... in terms of other well-known numbers. I (and everyone in the world) would say, "We have absolutely no idea! Even after 400 years!"
 
 ![apery](https://raw.githubusercontent.com/jagrajs/aperys-constant/master/apery.png)
 
