@@ -5,9 +5,7 @@ Attempting to solve a 375 year old problem in mathematical analysis which asks t
 
 ![series](https://raw.githubusercontent.com/jagrajs/aperys-constant/master/series.png)
 
-[View notebook on Jupyter nbviewer.](https://nbviewer.jupyter.org/github/jagrajs/Aperys_Constant/blob/master/Attacks_on_Apéry%27s_Constant.ipynb)
-
-[View notebook on Google Colab.](https://colab.research.google.com/drive/1atOCTKs1EKAPJYtCKOfEqdPMI1Smglyk)
+[View notebook here.](https://nbviewer.jupyter.org/github/jagrajs/Aperys_Constant/blob/master/Attacks_on_Apéry%27s_Constant.ipynb)
 
 ---
 
