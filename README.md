@@ -21,7 +21,7 @@ Now, suppose you asked someone to rewrite the number 1.2020569031... in terms of
 
 ![apery](https://raw.githubusercontent.com/jagrajs/aperys-constant/master/apery.png)
 
-The problem asks to rewrite the second number (aka Apéry's Constant) in terms of other well-known numbers. This is a problem of legendary difficulty, not only because it has remained unsolved for almost 400 years, but because one of the greatest mathematicians in history, Leonhard Euler, tried his hand at this problem but failed.
+The problem asks to rewrite the second number (aka Apéry's Constant) in terms of other well-known numbers. This is a legendary problem in mathematics, not only because it has remained unsolved for almost 400 years, but because one of the greatest mathematicians in history, Leonhard Euler, tried his hand at this problem and failed.
 
 ### Resources
 
