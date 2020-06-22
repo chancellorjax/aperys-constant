@@ -3,7 +3,7 @@
 Attempting to solve a 375 year old problem in mathematical analysis which asks to find the exact sum, in closed form, of the following infinite series.
 
 
-![series](https://raw.githubusercontent.com/jagrajs/aperys-constant/master/series.png)
+![series](https://raw.githubusercontent.com/jagrajs/aperys-constant/master/images/series.png)
 
 [View notebook here.](https://nbviewer.jupyter.org/github/jagrajs/Aperys_Constant/blob/master/Attacks_on_Apéry%27s_Constant.ipynb)
 
@@ -15,11 +15,11 @@ Suppose you asked someone to rewrite the number 1.6449340668... in terms of othe
 
 One could say, "That's easy!"
 
-![basel](https://raw.githubusercontent.com/jagrajs/aperys-constant/master/basel.png)
+![basel](https://raw.githubusercontent.com/jagrajs/aperys-constant/master/images/basel.png)
 
 Now, suppose you asked someone to rewrite the number 1.2020569031... in terms of other well-known numbers. Everyone in the world would say, "We have absolutely no idea!"
 
-![apery](https://raw.githubusercontent.com/jagrajs/aperys-constant/master/apery.png)
+![apery](https://raw.githubusercontent.com/jagrajs/aperys-constant/master/images/apery.png)
 
 The problem asks to rewrite the second number (aka Apéry's Constant) in terms of other well-known numbers. This is a legendary problem in mathematics, not only because it has remained unsolved for almost 400 years, but because one of the greatest mathematicians in history, Leonhard Euler, tried his hand at this problem and failed.
 
